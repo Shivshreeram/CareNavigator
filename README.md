@@ -82,12 +82,13 @@ Upon running the program, you'll be presented with a menu:
 ## Data Structures
 1. **Graph**
 
-    **Description**: The network is modeled as a graph where each healthcare facility is a node, and each connection is an edge with a weight (distance).
-    Implementation:
+   **Description**: The network is modeled as a graph where each healthcare facility is a node, and each connection is an edge with a weight (distance).
+
+   **Implementation**:
         Adjacency List: Stores connections as a vector of pairs for each node. Each pair contains the destination node and the weight of the edge.
         Efficient for sparse graphs and operations like adding edges or traversing neighbors.
 
-2. **Red-Black Tree**
+3. **Red-Black Tree**
 
     **Description**: Red-black trees are used internally by the unordered_map to manage the facilities. Each facility is a key-value pair where the key is the facility ID and the value is a Facility object.
 
@@ -98,7 +99,8 @@ Upon running the program, you'll be presented with a menu:
 4. **Minimum Spanning Tree (MST)**
 
     **Description**: Although the program doesn't explicitly compute an MST, the concept can be applied to optimize the network by connecting all facilities with the minimum total weight.
-    Potential Enhancement: Implementing Kruskal's or Prim's algorithm to compute an MST for planning the optimal layout of new healthcare facilities or improving existing networks.
+
+   Potential Enhancement: Implementing Kruskal's or Prim's algorithm to compute an MST for planning the optimal layout of new healthcare facilities or improving existing networks.
 
 ---
 
