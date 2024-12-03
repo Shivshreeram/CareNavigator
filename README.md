@@ -39,7 +39,7 @@ The **Healthcare Network Planner** is a C++ program designed to model and manage
 
 1. **Clone the repository**:
    
-        git clone https://github.com/<your-username>/healthcare-network-planner.git
+        git clone https://github.com/<ShivShreeram>/healthcare-network-planner.git
         cd healthcare-network-planner
 
 3. **Compile the code**:
