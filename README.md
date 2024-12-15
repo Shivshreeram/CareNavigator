@@ -125,4 +125,4 @@ Upon running the program, you'll be presented with a menu:
 
 ## Author
 
-Developed by [ShivShreeram P](www.github.com/Shivshreeram) and [K Sai Charan] as a project to demonstrate network modeling, advanced data structures, and shortest-path algorithms in C++.
+Developed by [ShivShreeram P](www.github.com/Shivshreeram) and [K Sai Charan](www.github.com/Saicharan11014) as a project to demonstrate network modeling, advanced data structures, and shortest-path algorithms in C++.
